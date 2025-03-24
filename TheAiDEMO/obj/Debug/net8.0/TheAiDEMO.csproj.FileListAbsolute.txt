@@ -1,0 +1,6 @@
+E:\Pros\TheAiDEMO\TheAiDEMO\obj\Debug\net8.0\TheAiDEMO.csproj.AssemblyReference.cache
+E:\Pros\TheAiDEMO\TheAiDEMO\obj\Debug\net8.0\TheAiDEMO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pros\TheAiDEMO\TheAiDEMO\obj\Debug\net8.0\TheAiDEMO.AssemblyInfoInputs.cache
+E:\Pros\TheAiDEMO\TheAiDEMO\obj\Debug\net8.0\TheAiDEMO.AssemblyInfo.cs
+E:\Pros\TheAiDEMO\TheAiDEMO\obj\Debug\net8.0\TheAiDEMO.csproj.CoreCompileInputs.cache
+E:\Pros\TheAiDEMO\TheAiDEMO\obj\Debug\net8.0\TheAiDEMO.sourcelink.json
