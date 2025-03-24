@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheAiDEMO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f69104dd808efb63f4fa1520f53d7d38a9ada195")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffca98a87d2775e40322107cf386c080cbe64318")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheAiDEMO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheAiDEMO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

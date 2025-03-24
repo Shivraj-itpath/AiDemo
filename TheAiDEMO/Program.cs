@@ -37,7 +37,7 @@ var openAiOption = new OpenAIClientOptions()
 var openAiClient = new OpenAIClient(credential, openAiOption);
 //var chatlient = openAiClient.AsChatClient("gpt-4o-mini");
 
-var chatlient = openAiClient.AsEmbeddingGenerator("text-embedding-ada-002");
+var chatlient = openAiClient.AsEmbeddingGenerator("text-embedding-3-small");
 
 //var response = await chatlient.GetResponseAsync(new ChatMessage(ChatRole.User, "Tell me something about AI"));
 //Console.WriteLine(response.Text);
@@ -122,7 +122,7 @@ if (embeddingResult != null)
     Console.WriteLine("✅ Embedding generated successfully!");
     Console.WriteLine($"Text: {inputText}");
     Console.WriteLine("Embedding:");
-    Console.WriteLine(string.Join(", ", embeddingResult.Vector));
+    Console.WriteLine(string.Join(", ", embeddingResult.Vector.ToArray()));
 }
 else
 {
